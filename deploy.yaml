@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring
-        image: spring
+        image: ubuntu
         ports:
         - containerPort: 80
